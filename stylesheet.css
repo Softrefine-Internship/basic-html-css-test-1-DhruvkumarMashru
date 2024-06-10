@@ -1,0 +1,198 @@
+body {
+  margin: 0 auto;
+  padding: 0;
+  max-width: 1200px;
+  position: relative;
+}
+
+.header {
+  height: 50px;
+  background-color: #ccc;
+}
+
+.banner {
+  max-width: 400px;
+  height: 50px;
+  margin: 50px 350px;
+  padding: 0px 50px;
+  background-color: #ccc;
+}
+
+.right {
+  background-color: #ccc;
+  margin-top: 10px;
+  position: absolute;
+  left: 0px;
+  width: 50%;
+  height: 500px;
+  margin-bottom: 10px;
+  float: right;
+}
+
+.left {
+  background-color: #ccc;
+  margin-top: 10px;
+  position: absolute;
+  right: 0px;
+  width: 48%;
+  height: 500px;
+  margin-bottom: 10px;
+  float: left;
+}
+
+.banner1 {
+  background-color: #ccc;
+  margin-top: 50px;
+  margin-left: 20px;
+  width: 50%;
+  height: 50px;
+  margin-bottom: 50px;
+  position: absolute;
+  top: 700px;
+  right: 25%;
+  left: 25%;
+}
+.boxes {
+  gap: 10px;
+  position: absolute;
+  margin-top: 640px;
+  margin-left: 185px;
+  margin-right: 150px;
+  margin-bottom: 50px;
+  width: 1000px;
+  height: 500px;
+}
+.boxes .boxes-item {
+  background-color: #ccc;
+  width: 200px;
+  height: 200px;
+  margin: 8px;
+  float: left;
+}
+.banner2 {
+  background-color: #ccc;
+  margin-top: 1170px;
+  max-width: 750px;
+  height: 50px;
+  margin-bottom: 50px;
+  position: absolute;
+  top: 130px;
+  right: 200px;
+  left: 230px;
+}
+.container1 {
+  width: 1100px;
+  height: 500px;
+  margin-top: 0px;
+  border-bottom: 70px solid #ccc;
+  border-top: 70px solid #ccc;
+  border-left: 40px solid #ccc;
+  border-right: 40px solid #ccc;
+  background-color: #ccc;
+  position: absolute;
+  top: 1375px;
+}
+
+.blocks .line,
+.blocks .item {
+  border-top: 30px solid white;
+  border-left: 30px solid white;
+  border-right: 30px solid white;
+  background-color: #ccc;
+  width: 225px;
+  height: 30px;
+  float: left;
+  margin: 0px 40px;
+}
+
+.blocks1 .line,
+.blocks1 .item {
+  border-left: 30px solid white;
+  background-color: #ccc;
+  width: 225px;
+  height: 175px;
+  float: left;
+  margin: 0px 40px;
+  border-top: 30px solid white;
+  border-right: 30px solid white;
+  border-bottom: 30px solid white;
+}
+.blocks2 .line,
+.blocks2 .item {
+  border-left: 30px solid white;
+  background-color: #ccc;
+  width: 225px;
+  height: 175px;
+  float: left;
+  margin: 0px 40px;
+  border-right: 30px solid white;
+  border-bottom: 30px solid white;
+}
+
+.banner4 {
+  background-color: #ccc;
+  height: 40px;
+  max-width: 20%;
+  margin-top: 610px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+}
+
+.banner5 {
+  background-color: #ccc;
+  height: 40px;
+  max-width: 30%;
+  margin: 10px auto;
+}
+
+.banner6 {
+  background-color: #ccc;
+  height: 40px;
+  max-width: 30%;
+  margin: 10px auto;
+}
+
+.banner7 {
+  background-color: #ccc;
+  height: 40px;
+  max-width: 30%;
+  margin: 10px auto;
+}
+
+.banner8 {
+  background-color: #ccc;
+  height: 150px;
+  max-width: 30%;
+  margin: 10px auto;
+}
+.banner-1 {
+  margin-left: 380px;
+}
+.banner-1 .box {
+  background-color: #ccc;
+  max-width: 22%;
+  margin: 1%;
+  height: 40px;
+  float: left;
+}
+.squares .square1 {
+  max-width: 530px;
+  height: 200px;
+  position: absolute;
+  top: 28cm;
+  right: 360px;
+  left: 0px;
+  background-color: #ffffff;
+  border: 30px solid #ccc;
+}
+.squares .square2 {
+  max-width: 515px;
+  height: 200px;
+  position: absolute;
+  top: 28cm;
+  right: 0px;
+  left: 540px;
+  background-color: #ffffff;
+  border: 30px solid #ccc;
+}
